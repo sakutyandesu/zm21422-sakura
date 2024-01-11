@@ -1,5 +1,1 @@
-function sayhello65(){alert('正解','+who65+'!');}
-function sayhello66(){alert('はずれ','+who66+'!');}
-function kimetu66(){who66='鬼滅の刃';}
-function vaiorextuto66(){who66='ヴァイオレット・エヴァーガーデン';}
-function kusuriya65(){who65='薬屋のひとりごと';}
+function sayhllo66(){alert(
