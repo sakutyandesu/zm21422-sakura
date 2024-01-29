@@ -5,5 +5,5 @@ function page(){
 
 function page2(){
     document.getElementById('1').src =
-    './image/yuki.jpg';
+    './image/kusuriya1.jpg';
 }
