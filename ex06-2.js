@@ -1,6 +1,6 @@
 function page(){
   document.getElementById('1').src =
-    './image/haru.jpg';
+    './image/kusuriya2.jpg';
 }
 
 function page2(){
